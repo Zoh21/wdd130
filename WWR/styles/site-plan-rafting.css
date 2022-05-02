@@ -16,7 +16,7 @@ Fonts are separated by a | */
   --paragraph-font: Roboto, Helvetica, sans-serif;
 
   /* these colors below should be chosen from among your palette colors above */
-  --headline-color-on-white: #01111D;  /* headlines on a white background */ 
+  --headline-color-on-white: #051b2c;  /* headlines on a white background */ 
   --headline-color-on-color: #ffff; /* headlines on a colored background */ 
   --paragraph-color-on-white: #01111D; /* paragraph text on a white background */ 
   --paragraph-color-on-color: #fff; /* paragraph text on a colored background */ 
