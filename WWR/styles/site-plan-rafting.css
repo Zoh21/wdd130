@@ -6,25 +6,25 @@ Fonts are separated by a | */
 
 :root {
   /* change the values below to your colors from your palette */
-  --primary-color: #01111d   ;
-  --secondary-color: #ffff ;
-  --accent1-color: #fc3419;
-  --accent2-color: white;
+  --primary-color: #1286FA   ;
+  --secondary-color: #F5FDFD ;
+  --accent1-color: #AAF07F;
+  --accent2-color: #F5FDFD;
 
   /* change the values below to your chosen font(s) */
   --heading-font: "Rock Salt";
   --paragraph-font: Roboto, Helvetica, sans-serif;
 
   /* these colors below should be chosen from among your palette colors above */
-  --headline-color-on-white: #051b2c;  /* headlines on a white background */ 
-  --headline-color-on-color: #ffff; /* headlines on a colored background */ 
-  --paragraph-color-on-white: #01111D; /* paragraph text on a white background */ 
-  --paragraph-color-on-color: #fff; /* paragraph text on a colored background */ 
-  --paragraph-background-color: #01111D;
-  --nav-link-color: #396E94;
-  --nav-background-color: #D4AC0D;
-  --nav-hover-link-color: white;
-  --nav-hover-background-color: #396E94;
+  --headline-color-on-white: #0955C7;  /* headlines on a white background */ 
+  --headline-color-on-color: #22ccf2; /* headlines on a colored background */ 
+  --paragraph-color-on-white: #F5FDFD; /* paragraph text on a white background */ 
+  --paragraph-color-on-color: #F5FDFD; /* paragraph text on a colored background */ 
+  --paragraph-background-color:#1286FA ;
+  --nav-link-color:#F5FDFD ;
+  --nav-background-color: #EB2A23;
+  --nav-hover-link-color: #F5FDFD;
+  --nav-hover-background-color: #3592E2;
 }
 
 
