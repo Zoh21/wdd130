@@ -1,0 +1,28 @@
+#background {
+    height: 725px;
+}
+body {
+    background-color: beige;
+}
+header {
+    background-color: rgb(175, 185, 185);
+}
+nav a:hover { background-color: black;
+color:aqua
+}
+.section class:hover {
+    background-color: blueviolet;
+    color: bisque;
+}
+footer {
+    background-color: aquamarine;
+    color: blue;
+} 
+.icon {
+    width: 80px;
+}
+nav a {
+    text-align: center;
+    color:brown;
+    text-decoration: burlywood;
+}
