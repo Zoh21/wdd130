@@ -113,6 +113,7 @@ a {
 .msg {
     background-color: #6f7364;
     line-height: 1.5em;
+    padding: 35px;
 }
 body {
     background-color: #fcfbfb;
@@ -125,7 +126,7 @@ h2 {
     margin: 0;
 }
 #logo_link {
-    padding: 5px;
+    padding-top: 5px;
 }
 footer .social img {
     padding-top: 15px;
