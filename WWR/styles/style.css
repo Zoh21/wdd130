@@ -38,9 +38,9 @@ nav a:hover {
 }
 .book, .join {
     background-color: rgba(0, 0, 255, 0.61);
-    color: white;
+    color: rgb(15, 15, 15);
     text-decoration: none;
-    text-align: center;
+    font-size: 18px;
     padding: 15px 30px;
     margin-top: 50px;
     border-radius: 5px;
@@ -135,7 +135,7 @@ footer .social img {
     margin: 200px 0;
 }
 .card-img {
-    border: 10px solid #d9c2a3;
+    border: 10px solid #e9e0d8;
 }
 main section img {
     box-sizing: border-box;
