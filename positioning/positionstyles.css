@@ -79,18 +79,14 @@
   grid-column: 1/3;
 } 
 .green3 {
-  width: 85%; 
+  width: 100%; 
   height: 400px; 
   background-color: green;
-  margin-top: 0px;
-  margin-left: -70px;
 } 
 .yellow3 {
-  width: 85%; 
+  width: 100%; 
   height: 400px; 
   background-color: gold; 
-  margin-top: 0px;
-  margin-right: -70px;
 } 
 .blue3 {
   width: 100%;
