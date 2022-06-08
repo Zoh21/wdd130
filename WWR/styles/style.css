@@ -143,7 +143,7 @@ h2 {
 footer .social img {
     padding-top: 15px;
 }
-.rivers-cards, .camping-card, .rapids-card {
+.rivers-card, .camping-card, .rapids-card {
     margin: 200px 0;
 }
 .card-img {
@@ -184,7 +184,7 @@ nav {
 }
 main {
     display: grid;
-    grid-template-columns: 10 (1fr);
+    grid-template-columns: repeat (10, 1fr);
 }
 .rivers-card {
    grid-column: 2/4;
@@ -197,6 +197,7 @@ main {
 .rapids-card {
     grid-column: 8/10;
     grid-row: 2/3;
+
 }
 .mountains {
     grid-column: 2/7;
