@@ -17,6 +17,10 @@ nav a {
 #hero-msg h1, #hero-msg h4 {
     text-align: center;
 }
+
+footer p {
+   text-size: 1.2em;
+}
 .button-box {
     text-align: center;
 }
@@ -28,6 +32,7 @@ main section {
 }
 body {
     background-color: beige;
+
 }
 header {
     display: grid;
@@ -56,17 +61,13 @@ nav a:hover {
     grid-column: 1/11;
     grid-row: 4/9;
 }
-.msg {
-    background-color: blanchedalmond;
-    color: rgb(19, 18, 18);
-    text-decoration: none;
-    text-align: center;
-    padding: 35px;
-}
+
 footer {
     background-color: rgb(163, 166, 168);
 }
 .home-title {
+    font-family:'Rock Salt', 'Bradley Hand', sans-serif;
+    font-size: 2em;
     color: rgb(0, 8, 8);
     margin-top: 10px;
 }
@@ -80,7 +81,7 @@ msg p {
     color: #002;
     text-decoration: none;
     text-align: center;
-    padding: 35px;
+    padding-bottom: 15px;
 }
 footer h3 {
     color: #002;
@@ -95,6 +96,7 @@ footer {
 }
 footer a:hover {
     color: aqua;
+    text-decoration: underline;
 }
 #hero-img {
     width: 100%;
@@ -147,9 +149,9 @@ footer .social img {
     margin: 200px 0;
 }
 .card-img {
-    border: 10px solid #e9e0d8;
+    border: 10px solid #e0e7dbf5;
     transition: transform .5s;
-    box-shadow: 5px 5px 10px #6f7364;
+    box-shadow: 5px 5px 10px #060800;
 }
 main section img {
     box-sizing: border-box;
