@@ -171,7 +171,7 @@ nav {
     z-index: -1;
 }
 #hero-msg h4 {
-    color:white;
+    color:rgb(24, 23, 23);
 }
 #hero-msg {
     grid-column: 2/3;
