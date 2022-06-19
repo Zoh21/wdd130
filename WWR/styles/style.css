@@ -188,6 +188,11 @@ main {
     display: grid;
     grid-template-columns: repeat (10, 1fr);
 }
+.riverview-card1 {
+    padding: 30px;
+    margin-top: 15px;
+    margin-bottom: 18px;
+}
 .rivers-card {
    grid-column: 2/4;
    grid-row: 2/3;
@@ -199,6 +204,9 @@ main {
 .rapids-card {
     grid-column: 8/10;
     grid-row: 2/3;
+
+
+}
 
 }
 .mountains {
