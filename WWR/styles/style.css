@@ -193,6 +193,10 @@ main {
     margin-top: 15px;
     margin-bottom: 18px;
 }
+.card1-img {
+    width: 50%;
+    height: 25px;
+}
 .rivers-card {
    grid-column: 2/4;
    grid-row: 2/3;
